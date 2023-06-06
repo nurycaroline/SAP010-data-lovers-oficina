@@ -7,3 +7,13 @@ export const example = () => {
 export const anotherExample = () => {
   return 'OMG';
 };
+
+
+function sum (a, b) {
+  return a + b;
+}
+
+
+function rest(a, b) {
+  return a - b;
+}
