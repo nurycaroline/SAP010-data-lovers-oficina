@@ -1,4 +1,4 @@
 import { example } from './data.js';
-import data from './data/ghibli/ghibli.js';
+import data from './data/pokemon/pokemon.js';
 
 console.log(example, data);
